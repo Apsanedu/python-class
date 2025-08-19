@@ -1,0 +1,9 @@
+--- Python Burgers Receipt ---
+Date: 2025-08-19 14:16:09
+-----------------------------
+ 2x Salad = $9.98
+ 1x Drink = $1.99
+-----------------------------
+ Total: $11.97
+
+Thank you for your order!
